@@ -11,7 +11,7 @@
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <slf4j.version>2.0.12</slf4j.version>
-        <logback.version>1.5.3</logback.version>
+        <logback.version>1.5.13</logback.version>
         <javacv.version>1.5.10</javacv.version>
         <junit.version>5.10.2</junit.version>
     </properties>
